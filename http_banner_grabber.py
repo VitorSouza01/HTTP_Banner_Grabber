@@ -1,5 +1,7 @@
+# Biblioteca
 import requests
 
+# Título 
 print("[HTTP Banner Grabber]\n")
 
 while True:
